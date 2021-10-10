@@ -1,0 +1,13 @@
+/.htaccess
+/.vscode
+/circle.svg
+/composer.json
+/composer.lock
+/database
+/index.html
+/index.php
+/public
+/routes
+/templates
+/vendor
+/views
